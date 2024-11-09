@@ -65,7 +65,7 @@ Experienced IT and telecommunications technician with expertise in installation,
 
 <p align="center">
   <a href="https://www.credly.com/badges/095a407d-fcae-4c51-803d-b49ed9d2652a">
-    <img src="https://images.credly.com/size/45x45/images/845b37d1-09fb-42d5-9559-38abc7b4063d/MCSA_Windows_Server_2012-01.png" alt="MCSA: Windows Server 2012" title="MCSA: Windows Server 2012"/>
+    <img src="https://images.credly.com/size/35x35/images/845b37d1-09fb-42d5-9559-38abc7b4063d/MCSA_Windows_Server_2012-01.png" alt="MCSA: Windows Server 2012" title="MCSA: Windows Server 2012"/>
   </a>
   <a href="https://www.credly.com/badges/0ad368a2-f166-48b8-b4ed-4f567089c1b6">
     <img src="https://images.credly.com/size/45x45/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="Python Essentials 1 (Cisco)" title="Python Essentials 1 (Cisco)"/>

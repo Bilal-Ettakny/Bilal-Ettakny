@@ -60,7 +60,7 @@ Experienced IT and telecommunications technician with expertise in installation,
 - <img src="https://example.com/arabic-icon.png" height="20"> **Arabic**: Native
 - <img src="https://example.com/french-icon.png" height="20"> **French**: Fluent
 - <img src="https://example.com/english-icon.png" height="20"> **English**: Intermediate
-- <img src="![image]([https://github.com/user-attachments/assets/9a92ba91-55c6-48f5-b8a9-62f1f8bf7978)](https://iconscout.com/free-icon/germany-3596710)" height="20"> **German**: B2 Level
+- <img src="<a href="https://www.flaticon.com/free-icons/germany" title="germany icons">Germany icons created by Freepik - Flaticon</a>" height="20"> **German**: B2 Level
 - var f = new FlagIcon();
 
 

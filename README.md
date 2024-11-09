@@ -1,14 +1,14 @@
 <link href="https://fonts.googleapis.com/css2?family=Lora:wght@700&display=swap" rel="stylesheet">
 
-<h1 style="font-family: 'Lora', serif; font-weight: bold;">Bilal Ettakny</h1>
-
-Telecommunication Technician | IT Technician  
-Casablanca, Morocco  
-📧 bilal.ettakny@outlook.com  
-📞 (+212) 689472465  
-[LinkedIn Profile](https://www.linkedin.com/in/bilal-ettakny)
-
----
+<div style="text-align: center;">
+    <h1 style="font-family: 'Lora', serif; font-weight: bold; font-size: 2.5em;">Bilal Ettakny</h1>
+    <p style="font-size: 1.2em; color: #333;">Telecommunication Technician | IT Technician</p>
+    <p style="font-size: 1em;">
+        📧 <a href="mailto:bilal.ettakny@outlook.com" style="color: #0073e6; text-decoration: none;">bilal.ettakny@outlook.com</a> |
+        📞 (+212) 689472465 | 
+        <a href="https://www.linkedin.com/in/bilal-ettakny" style="color: #0073e6; text-decoration: none;">LinkedIn Profile</a>
+    </p>
+</div>
 
 ## Summary
 

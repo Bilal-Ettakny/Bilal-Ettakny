@@ -55,7 +55,13 @@ Experienced IT and telecommunications technician with expertise in installation,
 
 - **Technical:** Windows Server, Active Directory, MS Office, Microsoft Exchange Server, VMware, Hyper-V, Nagios, Fortinet Firewall
 - **Networking:** LAN, WAN, TCP/IP, VPN, Switching/Routing
-- **Languages:** Arabic (native), French (fluent), English (intermediate), German (B2 level)
+- **Languages:**
+
+- <img src="https://example.com/arabic-icon.png" height="20"> **Arabic**: Native
+- <img src="https://example.com/french-icon.png" height="20"> **French**: Fluent
+- <img src="https://example.com/english-icon.png" height="20"> **English**: Intermediate
+- <img src="https://example.com/german-icon.png" height="20"> **German**: B2 Level
+
 
 ## Certifications
 

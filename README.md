@@ -61,24 +61,29 @@ Experienced IT and telecommunications technician with expertise in installation,
 
 
 
-[![MCSA: Windows Server 2012](https://images.credly.com/size/160x160/images/835b37d1-09fb-42d5-9559-38abc7b4063d/MCSA_Windows_Server_2012-01.png)](https://www.credly.com/badges/095a407d-fcae-4c51-803d-b49ed9d2652a)
-[![Python Essentials 1 (Cisco)](https://images.credly.com/size/160x160/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png)](https://www.credly.com/badges/0ad368a2-f166-48b8-b4ed-4f567089c1b6)
-[![Networking Basics (Cisco)](https://images.credly.com/size/160x160/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png)](https://www.credly.com/badges/da6fa297-cf7a-4844-89c9-a457539e4e99)
-[![Networking Devices and Initial Configuration](https://images.credly.com/size/160x160/images/88316fe8-5651-4e61-a6be-5be1558f049e/image.png)](https://www.credly.com/badges/70eb605d-cf79-4374-9583-e7db81b61b3b)
-[![Network Addressing and Basic Troubleshooting](https://images.credly.com/size/160x160/images/49c099bd-8542-4f48-8c03-f21799dcaf51/image.png)](https://www.credly.com/badges/05457a42-12fd-49dc-b64b-6e8068f276f0)
-[![Network Support and Security](https://images.credly.com/size/160x160/images/a4dd891f-7bf5-4938-8241-50dc81e8cc00/image.png)](https://www.credly.com/badges/6e721591-a530-4b67-8b8d-711737579941)
 
-<style>
-img[alt="MCSA: Windows Server 2012"], 
-img[alt="Python Essentials 1 (Cisco)"], 
-img[alt="Networking Basics (Cisco)"], 
-img[alt="Networking Devices and Initial Configuration"], 
-img[alt="Network Addressing and Basic Troubleshooting"], 
-img[alt="Network Support and Security"] {
-    height: 35px;
-    display: inline-block;
-}
-</style>
+
+<p align="center">
+  <a href="https://www.credly.com/badges/095a407d-fcae-4c51-803d-b49ed9d2652a">
+    <img src="https://images.credly.com/size/35x35/images/835b37d1-09fb-42d5-9559-38abc7b4063d/MCSA_Windows_Server_2012-01.png" alt="MCSA: Windows Server 2012" title="MCSA: Windows Server 2012"/>
+  </a>
+  <a href="https://www.credly.com/badges/0ad368a2-f166-48b8-b4ed-4f567089c1b6">
+    <img src="https://images.credly.com/size/35x35/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="Python Essentials 1 (Cisco)" title="Python Essentials 1 (Cisco)"/>
+  </a>
+  <a href="https://www.credly.com/badges/da6fa297-cf7a-4844-89c9-a457539e4e99">
+    <img src="https://images.credly.com/size/35x35/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Networking Basics (Cisco)" title="Networking Basics (Cisco)"/>
+  </a>
+  <a href="https://www.credly.com/badges/70eb605d-cf79-4374-9583-e7db81b61b3b">
+    <img src="https://images.credly.com/size/35x35/images/88316fe8-5651-4e61-a6be-5be1558f049e/image.png" alt="Networking Devices and Initial Configuration" title="Networking Devices and Initial Configuration"/>
+  </a>
+  <a href="https://www.credly.com/badges/05457a42-12fd-49dc-b64b-6e8068f276f0">
+    <img src="https://images.credly.com/size/35x35/images/49c099bd-8542-4f48-8c03-f21799dcaf51/image.png" alt="Network Addressing and Basic Troubleshooting" title="Network Addressing and Basic Troubleshooting"/>
+  </a>
+  <a href="https://www.credly.com/badges/6e721591-a530-4b67-8b8d-711737579941">
+    <img src="https://images.credly.com/size/35x35/images/a4dd891f-7bf5-4938-8241-50dc81e8cc00/image.png" alt="Network Support and Security" title="Network Support and Security"/>
+  </a>
+</p>
+
 
 
 ## Personal Attributes

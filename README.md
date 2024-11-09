@@ -57,9 +57,9 @@ Experienced IT and telecommunications technician with expertise in installation,
 - **Networking:** LAN, WAN, TCP/IP, VPN, Switching/Routing
 - **Languages:**
 
-- <img src="https://example.com/arabic-icon.png" height="20"> **Arabic**: Native
-- <img src="https://example.com/french-icon.png" height="20"> **French**: Fluent
-- <img src="https://example.com/english-icon.png" height="20"> **English**: Intermediate
+- <img src="https://github.com/user-attachments/assets/0ae0c738-6e0b-4e54-acb7-3b2157f94e39" height="20"> **Arabic**: Native
+- <img src="https://github.com/user-attachments/assets/fba252e8-5c1b-4df4-9de8-6acb361ed54d" height="20"> **French**: Fluent
+- <img src="https://github.com/user-attachments/assets/9ddeaf56-a0eb-4f48-b0ad-cd053a0bc1b0" height="20"> **English**: Intermediate
 
 - <img src="https://github.com/user-attachments/assets/a2f4fff0-d7a6-4ba1-a36e-bb098de8da63" height="20"> **German**: B2 Level **German**: B2 Level
 

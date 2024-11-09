@@ -60,7 +60,9 @@ Experienced IT and telecommunications technician with expertise in installation,
 - <img src="https://example.com/arabic-icon.png" height="20"> **Arabic**: Native
 - <img src="https://example.com/french-icon.png" height="20"> **French**: Fluent
 - <img src="https://example.com/english-icon.png" height="20"> **English**: Intermediate
-- <img src="https://example.com/german-icon.png" height="20"> **German**: B2 Level
+- <img src="![image](https://github.com/user-attachments/assets/9a92ba91-55c6-48f5-b8a9-62f1f8bf7978)" height="20"> **German**: B2 Level
+- 
+
 
 
 ## Certifications

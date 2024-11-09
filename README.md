@@ -1,4 +1,6 @@
-<h1 style="font-family: 'Xants';">Bilal Ettakny</h1>
+<link href="https://fonts.googleapis.com/css2?family=Lora:wght@700&display=swap" rel="stylesheet">
+
+<h1 style="font-family: 'Lora', serif; font-weight: bold;">Bilal Ettakny</h1>
 
 Telecommunication Technician | IT Technician  
 Casablanca, Morocco  

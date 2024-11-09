@@ -59,11 +59,9 @@ Experienced IT and telecommunications technician with expertise in installation,
 
 ## Certifications
 
-- MCSA: Windows Server 2012 (Microsoft)
-- Advanced Windows Server 2012 Services (Microsoft)
-- Administering Windows Server 2012 (Microsoft)
-- Python Essentials 1 (Cisco)
-- Networking Basics (Cisco)
+[![MCSA: Windows Server 2012](https://images.credly.com/size/160x160/images/835b37d1-09fb-42d5-9559-38abc7b4063d/MCSA_Windows_Server_2012-01.png)](https://www.credly.com/badges/095a407d-fcae-4c51-803d-b49ed9d2652a)  
+[![Python Essentials 1 (Cisco)](https://example.com/path-to-your-badge-image.png)](https://www.credly.com/path-to-your-badge)  
+[![Networking Basics (Cisco)](https://example.com/path-to-your-badge-image.png)](https://www.credly.com/path-to-your-badge)  
 
 ## Personal Attributes
 

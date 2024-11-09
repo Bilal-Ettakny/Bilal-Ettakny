@@ -1,4 +1,4 @@
-# Bilal Ettakny
+<h1 style="font-family: 'Xants';">Bilal Ettakny</h1>
 
 Telecommunication Technician | IT Technician  
 Casablanca, Morocco  

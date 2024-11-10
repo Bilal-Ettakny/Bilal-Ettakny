@@ -1,8 +1,9 @@
 <!-- Background Cover Photo and Profile Section -->
 <div style="position: relative; width: 100%; text-align: center; font-family: Arial, sans-serif;">
   
-  <!-- Cover Photo -->
-  <img src="https://github.com/user-attachments/assets/feaf9b9b-0af6-4a99-bf21-9ae53a66280f" alt="Cover Photo" style="width: 100%; height: 250px; object-fit: cover;">
+ 
+<!-- Profile Section with Border -->
+<div style="border: 2px solid #0073e6; padding: 1em; width: 300px; margin: auto; text-align: center; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); font-family: Arial, sans-serif;">
 
   <!-- Profile Photo -->
   <img src="https://github.com/user-attachments/assets/6c0d05f4-9f3d-4837-9476-33e0e6af30fd" alt="Profile Photo" style="
@@ -10,14 +11,11 @@
        height: 150px; 
        border-radius: 50%; 
        border: 5px solid white; 
-       position: absolute; 
-       top: 150px; 
-       left: 50%; 
-       transform: translateX(-50%);">
+       margin-top: -75px;">
 
   <!-- Name and Title Section -->
-  <div style="margin-top: 80px;">
-      <h1 style="font-family: 'Lora', serif; font-weight: bold; font-size: 2em; margin: 0;">Bilal Ettakny</h1>
+  <div style="margin-top: 10px;">
+      <h1 style="font-family: 'Lora', serif; font-weight: bold; font-size: 1.8em; margin: 0;">Bilal Ettakny</h1>
       <p style="font-size: 1.2em; color: #333; margin-top: 5px;">Telecommunication Technician | IT Technician</p>
       <p style="font-size: 1em;">
           📧 <a href="mailto:bilal.ettakny@outlook.com" style="color: #0073e6; text-decoration: none;">bilal.ettakny@outlook.com</a> |
@@ -26,6 +24,7 @@
       </p>
   </div>
 </div>
+
 
 ## Summary
 

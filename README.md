@@ -1,11 +1,3 @@
-<!-- Background Cover Photo and Profile Section -->
-<div style="position: relative; width: 100%; text-align: center; font-family: Arial, sans-serif;">
-  
-  <!-- Profile Section with Border -->
-  <div style="border: 2px solid #0073e6; padding: 1em; width: 300px; margin: auto; text-align: center; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); font-family: Arial, sans-serif;">
-
-    <!-- Profile Photo -->
-    <img src="https://github.com/user-attachments/assets/6c0d05f4-9f3d-4837-9476-33e0e6af30fd" alt="Profile Photo" style="width: 150px; height: 150px; border-radius: 50%; border: 5px solid white; margin-top: -75px;">
 
     <!-- Name and Title Section -->
     <div style="margin-top: 10px;">

@@ -1,15 +1,5 @@
 
-    <!-- Name and Title Section -->
-    <div style="margin-top: 10px;">
-      <h1 style="font-family: 'Lora', serif; font-weight: bold; font-size: 1.8em; margin: 0;">Bilal Ettakny</h1>
-      <p style="font-size: 1.2em; color: #333; margin-top: 5px;">Telecommunication Technician | IT Technician</p>
-      <p style="font-size: 1em;">
-        📧 <a href="mailto:bilal.ettakny@outlook.com" style="color: #0073e6; text-decoration: none;">bilal.ettakny@outlook.com</a> |
-        📞 (+212) 689472465 |
-        <a href="https://www.linkedin.com/in/bilal-ettakny" style="color: #0073e6; text-decoration: none;">LinkedIn Profile</a>
-      </p>
-    </div>
-  </div>
+
 
   <!-- Summary Section -->
   <h2 style="font-size: 1.5em; font-family: 'Lora', serif; color: #0073e6;">Summary</h2>
